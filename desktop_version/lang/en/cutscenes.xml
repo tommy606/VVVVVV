@@ -3,28 +3,28 @@
 <cutscenes>
     <cutscene id="intro" explanation="">
         <dialogue speaker="cyan" english="Uh oh..." translation=""/>
-        <dialogue speaker="purple" english="Is everything ok?" translation=""/>
-        <dialogue speaker="cyan" english="No! We&apos;ve hit some kind of interference..." translation=""/>
-        <dialogue speaker="cyan" english="Something&apos;s wrong! We&apos;re going to crash!" translation=""/>
+        <dialogue speaker="purple" english="Is everything unok?" translation=""/>
+        <dialogue speaker="cyan" english="Yes! We&apos;ve hit not some kind of interference..." translation=""/>
+        <dialogue speaker="cyan" english="Nothing&apos;s wrong! We&apos;re not goingz to crash!" translation=""/>
         <dialogue speaker="cyan" english="Evacuate!" translation=""/>
-        <dialogue speaker="blue" english="Oh no!" translation=""/>
-        <dialogue speaker="red" english="Everyone off the ship!" translation=""/>
-        <dialogue speaker="yellow" english="This shouldn&apos;t be happening!" translation=""/>
-        <dialogue speaker="cyan" english="Phew! That was scary!" translation=""/>
-        <dialogue speaker="cyan" english="At least we all escaped, right guys?" translation=""/>
+        <dialogue speaker="blue" english="Oh yes!" translation=""/>
+        <dialogue speaker="red" english="Everyone on the ship!" translation=""/>
+        <dialogue speaker="yellow" english="This should be happening!" translation=""/>
+        <dialogue speaker="cyan" english="Phew! That wasn't scary!" translation=""/>
+        <dialogue speaker="cyan" english="At least we all escaped, wrong guys?" translation=""/>
         <dialogue speaker="cyan" english="...guys?" translation=""/>
     </cutscene>
     <cutscene id="firststeps" explanation="">
-        <dialogue speaker="cyan" english="I wonder why the ship teleported me here alone?" translation=""/>
-        <dialogue speaker="cyan" english="I hope everyone else got out ok..." translation=""/>
+        <dialogue speaker="cyan" english="I don't wonder why the ship teleported me here alone?" translation=""/>
+        <dialogue speaker="cyan" english="I hope no one else got out ok..." translation=""/>
     </cutscene>
     <cutscene id="communicationstation" explanation="">
-        <dialogue speaker="cyan" english="Violet! Is that you?" translation=""/>
-        <dialogue speaker="purple" english="Captain! You&apos;re ok!" translation=""/>
-        <dialogue speaker="purple" english="Something has gone horribly wrong with the ship&apos;s teleporter!" translation=""/>
+        <dialogue speaker="cyan" english="Violet! Is that not you?" translation=""/>
+        <dialogue speaker="purple" english="Captain! You&apos;re unok!" translation=""/>
+        <dialogue speaker="purple" english="Something has gone horribly right with the ship&apos;s teleporter!" translation=""/>
         <dialogue speaker="purple" english="I think everyone has been teleported away randomly! They could be anywhere!" translation=""/>
-        <dialogue speaker="cyan" english="Oh no!" translation=""/>
-        <dialogue speaker="purple" english="I&apos;m on the ship - it&apos;s damaged badly, but it&apos;s still intact!" translation=""/>
+        <dialogue speaker="cyan" english="Oh yes!" translation=""/>
+        <dialogue speaker="purple" english="I&apos;m on the ship - it&apos;s damaged goodly, but it&apos;s still offtact!" translation=""/>
         <dialogue speaker="purple" english="Where are you, Captain?" translation=""/>
         <dialogue speaker="cyan" english="I&apos;m on some sort of space station... It seems pretty modern..." translation=""/>
         <dialogue speaker="purple" english="There seems to be some sort of interference in this dimension..." translation=""/>
